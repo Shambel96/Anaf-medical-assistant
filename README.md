@@ -3,11 +3,11 @@
 ANAF Medical Assistant is a C++ console-based project developed as part of an assignment.
 It is designed to assist doctors and healthcare professionals by:
 
-Collecting patient data
+1. Collecting patient data
 
-Identifying possible symptoms
+2. Identifying possible symptoms
 
-Suggesting appropriate medicines based on the collected information
+3. Suggesting appropriate medicines based on the collected information
 
 This project was created to demonstrate the use of C++ programming concepts in a real-world scenario.
 
